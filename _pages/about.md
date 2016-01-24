@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm A.J. Kueterman.
+Hi, I'm A.J.
 
 Currently working as a web developer.  Worked previously as an iOS and Android developer.  Always tinkering, coding, designing, and trying desperately to make stuff for people to like.
 
