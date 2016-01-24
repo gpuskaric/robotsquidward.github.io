@@ -32,22 +32,22 @@ What really tied us all together was a medium that is critical to my experience 
 
 The .gif format — an image format that allows for animated images — would later explode in popularity online. Today you see gifs on every major social networking platform, from Twitter to Reddit to messaging apps like Facebook Messenger. When I first joined Tumblr, however, the concept was still fairly unique.
 
-![Zodiac Gif](img/website_zodiac.gif)
+![Zodiac Gif]({{url}}/_images/website_zodiac.gif)
 One of my first gifs, this one from David Fincher’s “Zodiac”.
 
 What truly made it unique in my particular online community was its use as a vehicle for sharing snippets of films as images on blogs. Bloggers would take shots from movies that they enjoyed and create a gif as a tiny snapshot of the moving scene to share with other fans.
 
-![Fight Club Gif](img/website_fightclub.gif)
+![Fight Club Gif]({{url}}/_images/website_fightclub.gif)
 An early gif from “Fight Club”. Notice the slight cutout around Brad’s head-this was a technique to keep the image size under 500KB.
 
 >When I initially started making gifs the Tumblr size limit for gifs that were animated was 500kb. It became quite an art to make a smooth, well colored animated gif of a scene that fit under the 500kb marker. In later years this limit was raised to 1MB and finally to it’s current 2MB limit. Gif dimensions also had to change to be optimized to the dashboard post width, which lost it’s margins and re-sized images from 500px to 540px sometime after the Yahoo acquisition.
 
-![Garden State Gif](img/website_gardenstate.gif)
+![Garden State Gif]({{url}}/_images/website_gardenstate.gif)
 A gif from “Garden State”. Notice the similar border around Zach Braff.
 
 I eventually learned how to create gifs in Photoshop, and began to make cinematic gifs my primary original content on my blog. As my gifs improved, I began to gain a following. And because I posted gifs from the films I enjoyed, I started to get followers who appreciated similar films. This is how my Tumblr network exploded and began to solidify.
 
-![Waltz With Bashir Gif](img/website_waltzwithbashir.gif)
+![Waltz With Bashir Gif]({{url}}/_images/website_waltzwithbashir.gif)
 A larger gif from “Waltz With Bashir”.
 
 I found gif-makers who I liked and who gif’ed the content I liked and I would follow them. Appreciators of the gifs I made and the movies I made them from began to follow me and I began to follow them back. Eventually my dashboard was a two way communication between my ‘mutuals’ instead of just a content delivery system.
