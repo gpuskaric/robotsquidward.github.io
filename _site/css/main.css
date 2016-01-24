@@ -310,6 +310,25 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+/*
+  center images in posts
+*/
+.center-image {
+  margin: 0 auto;
+  display: block;
+  padding: 10px 10px 5px 10px; }
+
+/*
+  trick to do captions on images
+*/
+img + em {
+  color: #6E6E6E;
+  font-size: 12px;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  width: 500px; }
+
 /**
  * Syntax highlighting styles
  */
