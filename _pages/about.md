@@ -10,4 +10,4 @@ Currently working as a web developer.  Worked previously as an iOS and Android d
 
 This blog is my ramblings on film, tv, music, design, development, science, culture, art and all other good things.
 
-I can be contacted by email at <a href="mailto:aj@ajkueterman.com">aj@ajkueterman.com</a>
+I can be contacted by email at <a href="mailto:ajkueterman@gmail.com">ajkueterman@gmail.com</a>
