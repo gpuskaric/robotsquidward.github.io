@@ -5,9 +5,56 @@
     <description>Development, design, film, television, music, culture, science, art, and all of those other good things.  This is my personal blog, we&#39;ll see what it becomes.</description>
     <link>http://ajkueterman.com/</link>
     <atom:link href="http://ajkueterman.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Feb 2016 19:09:26 -0500</pubDate>
-    <lastBuildDate>Thu, 04 Feb 2016 19:09:26 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Mon, 15 Feb 2016 14:00:28 -0500</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:00:28 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>U.S. House Introduces Bill to Protect Encryption</title>
+        <description>&lt;p&gt;Any time I’ve read an article with ‘encryption’ in the headline over the last few months I’ve had to cringe and shake my head at the mostly overwhelming ignorance of our leaders and politicians on the topic.  Any time a presidential candidate gets asked about it, any time you read about state or local legislators talking about encryption, it’s always bad news for the public and for our privacy.&lt;/p&gt;
+
+&lt;p&gt;It turns out there actually are some individuals in our government who can understand this subject and approach it intelligently.  A bi-partisan house bill from House Representatives Ted Lieu (D-Calif.) and Blake Farenthold (R-Tex.) seeks to prohibit state and local governments from creating legislation requiring devices to have weakened encryption or a ‘back-door’ for law enforcement.&lt;/p&gt;
+
+&lt;p&gt;The bill is very short, reading entirely as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A State or political subdivision of a State may not mandate or request that a manufacturer, developer, seller, or provider of covered products or services—&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(1) design or alter the security functions in its product or service to allow the surveillance of any user of such product or service, or to allow the physical search of such product, by any agency or instrumentality of a State, a political subdivision of a State, or the United States; or&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(2) have the ability to decrypt or otherwise render intelligible information that is encrypted or otherwise rendered unintelligible using its product or service.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here’s the quote I swiped from &lt;a href=&quot;http://arstechnica.com/tech-policy/2016/02/house-bill-would-kill-state-local-bills-that-aim-to-weaken-smartphone-crypto/&quot;&gt;Ars Technica&lt;/a&gt; that I think sums up my frustration with the issue thus far:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.eff.org/about/staff/andrew-crocker&quot;&gt;Andrew Crocker&lt;/a&gt;, an attorney at the Electronic Frontier Foundation, told Ars.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“We also have lawmakers who are instead proposing vague and/or ineffective ‘solutions’ to that fundamental concern. That’s really the sum of these &lt;a href=&quot;https://en.wikipedia.org/wiki/Crypto_Wars&quot;&gt;Crypto Wars&lt;/a&gt;: The ‘pro encryption’ side has the weight of technical and policy expertise. The ‘anti’ side repeats that it can be done without saying how.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s also criticism of the bill in its succinct phrasing that devices can’t be altered or encryption weakened – when most budding legislation is looking to ban encrypted devices.  To me as a pragmatist, this is at least a solid step in the right direction.  It also helps to restore my faith in some of our legislators who I’ve begun to write off as universally out-of-touch with technical issues.&lt;/p&gt;
+
+&lt;p&gt;Color me cautiously optimistic.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://ajkueterman.com/politics/encryption/2016/02/14/encryption-bill-positive.html</link>
+        <guid isPermaLink="true">http://ajkueterman.com/politics/encryption/2016/02/14/encryption-bill-positive.html</guid>
+        
+        
+        <category>politics</category>
+        
+        <category>encryption</category>
+        
+      </item>
     
       <item>
         <title>Rostam Batmanglij Leaves Vampire Weekend</title>
