@@ -5,9 +5,42 @@
     <description>Development, design, film, television, music, culture, science, art, and all of those other good things.  This is my personal blog, we&#39;ll see what it becomes.</description>
     <link>http://ajkueterman.com/</link>
     <atom:link href="http://ajkueterman.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Feb 2016 17:44:56 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 17:44:56 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 09:22:04 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 09:22:04 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Swift Optionals...?</title>
+        <description>&lt;p&gt;This is a simple post about my appreciation for the little things in code.&lt;/p&gt;
+
+&lt;p&gt;I’m learning Swift for the first time, and I just learned about Optionals in Swift.  I just want to point out how great the syntax for an Optional is.&lt;/p&gt;
+
+&lt;p&gt;If you don’t know, here’s the syntax for a function returning an Optional:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    func foo(isBar: Bool) -&amp;gt; String? {
+      if(isBar) {
+        return &quot;Bar&quot;
+      }
+      return nil
+    }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I just love the question mark!  Which is Swift’s way of denoting an optional return value.  It’s simple, effective, and memorable.  It gives the function personality, like it’s not quite sure if it has the String to give you or not.  Would you like a String?  Well then cough up the right Bool!&lt;/p&gt;
+
+&lt;p&gt;Maybe it’s not quite so profound, but I like to see it as a good example of the greater simplicity and personality you get from Swift.  I can’t wait to learn more.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://ajkueterman.com/ios/swift/development/2016/02/25/swift-optionals-are-fun.html</link>
+        <guid isPermaLink="true">http://ajkueterman.com/ios/swift/development/2016/02/25/swift-optionals-are-fun.html</guid>
+        
+        
+        <category>ios</category>
+        
+        <category>swift</category>
+        
+        <category>development</category>
+        
+      </item>
     
       <item>
         <title>County Attorney in Arizona Boycotts iPhones and Calls Tim Cook a Terrorist Sympathizer</title>
