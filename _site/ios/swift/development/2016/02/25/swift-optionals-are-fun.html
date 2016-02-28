@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>A.J. Kueterman</title>
+    <title>Swift Optionals...?</title>
     <meta name="description" content="Development, design, film, television, music, culture, science, art, and all of those other good things.  This is my personal blog, we'll see what it becomes.">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://ajkueterman.com/">
+    <link rel="canonical" href="http://ajkueterman.com/ios/swift/development/2016/02/25/swift-optionals-are-fun.html">
 
 <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
@@ -57,64 +57,33 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">Swift Optionals...?</h1>
+    <p class="post-meta">Feb 25, 2016</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Feb 25, 2016</span>
+  <article class="post-content">
+    <p>This is a simple post about my appreciation for the little things in code.</p>
 
-        <h2>
-          <a class="post-link" href="/ios/swift/development/2016/02/25/swift-optionals-are-fun.html">Swift Optionals...?</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 24, 2016</span>
+<p>I’m learning Swift for the first time, and I just learned about Optionals in Swift.  I just want to point out how great the syntax for an Optional is.</p>
 
-        <h2>
-          <a class="post-link" href="/politics/encryption/apple/doj/fbi/2016/02/24/encryption-blowhard-in-arizona.html">County Attorney in Arizona Boycotts iPhones and Calls Tim Cook a Terrorist Sympathizer</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 19, 2016</span>
+<p>If you don’t know, here’s the syntax for a function returning an Optional:</p>
 
-        <h2>
-          <a class="post-link" href="/politics/encryption/apple/doj/fbi/2016/02/19/fbi-doj-apple-ordered-to-create-backdoor.html">DOJ Compels Apple to Create Backdoor</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 14, 2016</span>
+<pre><code>    func foo(isBar: Bool) -&gt; String? {
+      if(isBar) {
+        return "Bar"
+      }
+      return nil
+    }
+</code></pre>
 
-        <h2>
-          <a class="post-link" href="/politics/encryption/2016/02/14/encryption-bill-positive.html">U.S. House Introduces Bill to Protect Encryption</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jan 26, 2016</span>
+<p>I just love the question mark!  Which is Swift’s way of denoting an optional return value.  It’s simple, effective, and memorable.  It gives the function personality, like it’s not quite sure if it has the String to give you or not.  Would you like a String?  Well then cough up the right Bool!</p>
 
-        <h2>
-          <a class="post-link" href="/music/2016/01/26/rostam.html">Rostam Batmanglij Leaves Vampire Weekend</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jan 18, 2016</span>
+<p>Maybe it’s not quite so profound, but I like to see it as a good example of the greater simplicity and personality you get from Swift.  I can’t wait to learn more.</p>
 
-        <h2>
-          <a class="post-link" href="/tumblr/social/blog/2016/01/18/six-years-of-tumblr.html">Six Years of Tumblr</a>
-        </h2>
-      </li>
-    
-  </ul>
-
-  <!-- RSS Feed commented out -->
-  <!-- <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p> -->
+  </article>
 
 </div>
 
