@@ -12,8 +12,7 @@ Listening to this podcast, I began reflecting on my time over the last several y
 
 ### Creation
 
-I first created my Tumblr blog during my senior year of high school. I have always been interested in new social platforms and in building websites — I probably have tens of accounts on now-defunct social networking platforms over the years — and Tumblr sounded like an interesting and easy way for me to talk about things I liked to my vacant corner of the internet.
-I remember I had the theme with the typography from Vertigo for awhile. Funny in retrospect that it was one of the featured themes.
+I first created my Tumblr blog during my senior year of high school. I have always been interested in new social platforms and in building websites — I probably have tens of accounts on now-defunct social networking platforms over the years — and Tumblr sounded like an interesting and easy way for me to talk about things I liked to my vacant corner of the internet.  I remember I had the theme with the typography from Vertigo for awhile. Funny in retrospect that it was one of the featured themes.
 
 I followed a handful of generic blogs and posted a few times over the next couple of months. It wasn’t until I started my freshman year of college that I actually began to be an active user.
 
@@ -52,7 +51,7 @@ I eventually learned how to create gifs in Photoshop, and began to make cinemati
 
 I found gif-makers who I liked and who gif’ed the content I liked and I would follow them. Appreciators of the gifs I made and the movies I made them from began to follow me and I began to follow them back. Eventually my dashboard was a two way communication between my ‘mutuals’ instead of just a content delivery system.
 
->####A ‘mutual’ is a blog who you follow, and who follows you in return.
+>#### A ‘mutual’ is a blog who you follow, and who follows you in return.
 
 So there was this very interesting progression that happened over the years. Initially I followed blogs just to curate my dashboard with cool content. Slowly this led me to discover a community that I could later contribute to. Through these contributions I gathered my own following which turned into a network of blogs mutually sharing and appreciating each other’s work.
 
@@ -65,7 +64,7 @@ Eventually I had created a network of connected blogs who I shared interests wit
 
 Any time a new movie from our favorite directors was released, or someone discovered a sleeper indie film, or an obsession with an actor/actress or director reached meme-worthy-levels, Tumblr was the most fun place to be. Me and my online friends would discuss and gossip and joke about all these things we mutually loved.
 
->#It made something that I already loved so much more enjoyable and engaging.
+># It made something that I already loved so much more enjoyable and engaging.
 
 The best events were film and television awards shows. The Academy Awards are a reason to stay on Tumblr all night to discuss each minute detail of the event, react to winners and losers, and discuss the implications following the event late into the night. It made something that I already loved so much more enjoyable and engaging, and every year brought my blogging community closer together.
 
@@ -78,7 +77,7 @@ See the thing about Tumblr is that everyone is personally present in their blog,
 
 They do this because they feel protected. You’re not talking to people you really know in your own life, and you’re not really speaking as yourself, but yet you know there are people there to listen to you and sometimes to talk back.
 
->#Tumblr users can be whoever they want to be and can share in a safe place, away from the reality and challenges of their actual lives.
+># Tumblr users can be whoever they want to be and can share in a safe place, away from the reality and challenges of their actual lives.
 
 You get consolation while also maintaining your distance and safety. When you create a community of mutual followers Tumblr can be this really comforting and mostly safe place to unburden yourself, at least in my experience. It’s why I don’t share my Tumblr URL with people I know in my real life — I have an identity to protect.
 
@@ -90,7 +89,7 @@ This is what persists. This is why Tumblr is special and different. It’s a pla
 I’ve had a lot of experiences and relationships over the years on Tumblr. I remember them like chapters in my journey. The first few chapters involved me discovering my identity. The middle chapters involved me becoming an established blog and finding my community.
 The latter chapters involve a changing of the guard — in which many of my friends left and I discovered new subgroups to replace them, as well as the Yahoo takeover — and finally a year of weirdly intimate relationships between mutual blogs as the broader community I was a part of transformed into something less tight-knit.
 
->#Friends change, move on, delete their blogs.
+># Friends change, move on, delete their blogs.
 
 The current phase I’m in seems to be a turn away from this personal blog-to-blog connection and towards more of an established self-serving relationship. I’ve spent less time on my personal blog conversing with others and more time developing a side blog where I create gifs from the Star Wars films. I’ve also spent a lot less time caring about follower counts or the film identity for my personal blog, for better or worse.
 
