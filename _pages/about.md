@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm A.J.
 
-Currently working as a web developer.  Worked previously as an iOS and Android developer.  Always tinkering, coding, designing, and trying desperately to make stuff for people to like.
+Developer. Always tinkering, coding, designing, and trying desperately to make stuff for people to like.
 
 This blog is my ramblings on film, tv, music, design, development, science, culture, art and all other good things.
 
