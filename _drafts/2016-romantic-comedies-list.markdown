@@ -38,4 +38,13 @@ I'm going to start with a list of romantic comedies I have to see, then the list
 * High Fidelity
 * all of Sex and the City
 * Sixteen Candles
-*
+
+
+let movieDictionary = ["Spectre": ["cast": ["Daniel Craig", "Christoph Waltz", "Léa Seydoux", "Ralph Fiennes", "Monica Bellucci", "Naomie Harris"]]]
+
+var leadActor: String = ""
+
+// Enter code below
+if let cast = movieDictionary["Spectre"] {
+  let leadActor = cast[0]
+}
