@@ -1,4 +1,13 @@
-### Asus ZenBook 3 - The Newest [Insert Apple Product] Killer
+---
+layout: post
+title:  "Asus ZenBook 3 - The Newest MacBook Killer"
+date:   2016-04-04
+categories: pc macbook apple asus zenbook
+---
+
+### Asus ZenBook 3 - The Newest MacBook Killer
+
+*(Asus ZenBook 3 and MacBook are interchangeable for 'any Competitor' and 'Apple product', respectively)*
 
 Just finished re-watching Danny Boyle and Aaron Sorkin's *Steve Jobs*.  If you haven't seen it, it's an excellent film that I highly recommend, and some very nice borderline Apple-propaganda.
 
@@ -9,6 +18,7 @@ For the record, it hasn't really helped all that much.  Because the fact is ther
 I mean let's talk about design.  The MacBook looks exceedingly cooler than the ZenBook 3.  That matte aluminum finish and the mirrored Apple logo is brilliantly minimalistic.  ZenBook has that weird reflective backplate with the utilitarian ASUS logo.  The keyboard of the ZenBook, while Asus has stepped it's game up for this PC in that regard, can hardly compare to the Apple keyboard visual standard.  Then you have design flourishes like the speakers on the ZenBook.
 
 ![ZenBook 3 Speakers](https://cdn3.vox-cdn.com/thumbor/ZUoazJBQS3A3YuhC-Iii5JdJX3A=/1020x0/cdn0.vox-cdn.com/uploads/chorus_asset/file/6564697/DSCF4312.0.jpg)
+*ASUS ZenBook 3 speakers and keyboard design*
 
 In my opinion, they just don't really work.  And that's the thing when it comes down to buying an ultrabook like this.  You're not buying it for power, you're not buying it to break into Windows' OS (same goes for the MacBook, in all honesty it's still a silly purchase for a primary PC in my opinion), and if you really need portability there are options like the Surface or much cheaper options that have more flexible port configurations.  
 
