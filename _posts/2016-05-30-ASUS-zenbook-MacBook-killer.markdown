@@ -5,8 +5,6 @@ date:   2016-04-04
 categories: pc macbook apple asus zenbook
 ---
 
-### Asus ZenBook 3 - The Newest MacBook Killer
-
 *(Asus ZenBook 3 and MacBook are interchangeable for 'any Competitor' and 'Apple product', respectively)*
 
 Just finished re-watching Danny Boyle and Aaron Sorkin's *Steve Jobs*.  If you haven't seen it, it's an excellent film that I highly recommend, and some very nice borderline Apple-propaganda.
