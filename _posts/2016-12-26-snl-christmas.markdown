@@ -7,4 +7,4 @@ categories: snl tv obama
 
 This Christmas' SNL episode was one of my favorite in awhile.  This bit has the ingredients to be an all time classic.
 
-[![Jingle Barak](https://youtu.be/dTgGNNpEvkw.jpg)](https://youtu.be/dTgGNNpEvkw "Jingle Barak")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTgGNNpEvkw" frameborder="0" allowfullscreen></iframe>
