@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jingle Barak"
+title:  "Jingle Barack"
 date:   2016-12-26
 categories: snl tv obama
 ---
