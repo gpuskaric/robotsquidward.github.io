@@ -5,9 +5,9 @@ permalink: /about/
 ---
 Hi, I'm A.J.
 
-Developer. Always tinkering, coding, designing, and trying desperately to make stuff for people to like.
+Developer. Always tinkering, coding, designing.
 
-This blog is my ramblings on film, tv, music, design, development, science, culture, art and all other good things.
+This blog is my ramblings on film, tv, music, design, development, science, culture, art and all other good things.  At least that's what I think I would like it to be.
 
 I can be contacted by email at <a href="mailto:ajkueterman@gmail.com">ajkueterman@gmail.com</a>
 
