@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Picasso</title>
+	<title>A.J. Kueterman</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="static/favicon.png">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<meta content="A powerful image downloading and caching library for Android" name="description">
+	<meta content="My personal site" name="description">
 	<link href="static/bootstrap-combined.min.css" rel="stylesheet">
 	<link href="static/app.css" rel="stylesheet">
 	<link href="static/app-theme.css" rel="stylesheet">
@@ -35,6 +38,7 @@
 			</div>
 		</div>
 	</header>
+<!--
 	<section id="subtitle">
 		<div class="container">
 			<div class="row">
@@ -44,6 +48,7 @@
 			</div>
 		</div>
 	</section>
+-->
 	<section id="body">
 		<div class="container">
 			<div class="row">
@@ -70,13 +75,13 @@
                     
 					<p>Currently I'm working as a developer at Fifth Third Bank on their Consumer Internet Banking team.  I primarily develop native code for the Android and iOS Fifth Third Mobile Banking applications, and support those applications and <a href="https://www.53.com/">53.com</a></p>
                 
-                    <div id="appcontainer">
-                        <div id="appicon">
+                    <div class="twocolumncontainer">
+                        <div class="leftsideicon">
                             <div class="border software"><img class="appicon" onerror="this.style.display=&#39;none&#39;;" src="http://is4.mzstatic.com/image/thumb/Purple71/v4/12/21/b1/1221b12d-0fc8-edaa-7126-ef8be84bbaee/source/400x400bb.jpg" alt="400x400bb" width="200" height="200" /></div>
                         </div>
-                        <div id="appdescription">
-                              <div id="apptitle">Fifth Third Mobile Banking</div>
-                              <div id="appextradetails">
+                        <div class="rightsidedescription">
+                              <div class="iconsectiontitle">Fifth Third Mobile Banking</div>
+                              <div class="iconsectiondescription">
                                   <div>Securely access your accounts with Touch ID login, deposit checks, view recent transactions, pay bills, transfer money², and find ATMs and branches. With Now Balance and the Now Balance Today Widget, you can check your balances without logging in. See over six months of account history and...</div>
                                   <div class="genre">Genre: Finance</div>
                                 <div class="version">Version: 3.13</div>
@@ -86,82 +91,65 @@
                         </div>
                     </div>
                     
-                    
-                    
                     <h5>What I Work With</h5>
 					<pre class="prettyprint">["iOS", "Android", "Java", "Objective-C", "Swift"]</pre>
                 
                     
-					<h4>Image Transformations</h4>
-					<p>Transform images to better fit into layouts and to reduce memory size.</p>
-					<pre class="prettyprint">Picasso.with(context)
-  .load(url)
-  .resize(50, 50)
-  .centerCrop()
-  .into(imageView)</pre>
-					<p>You can also specify custom transformations for more advanced effects.</p>
-					<pre class="prettyprint">public class CropSquareTransformation implements Transformation {
-  @Override public Bitmap transform(Bitmap source) {
-    int size = Math.min(source.getWidth(), source.getHeight());
-    int x = (source.getWidth() - size) / 2;
-    int y = (source.getHeight() - size) / 2;
-    Bitmap result = Bitmap.createBitmap(source, x, y, size, size);
-    if (result != source) {
-      source.recycle();
-    }
-    return result;
-  }
-
-  @Override public String key() { return "square()"; }
-}</pre>
-					<p>Pass an instance of this class to the <code>transform</code> method.</p>
-					<h4>Place Holders</h4>
-					<p>Picasso supports both download and error placeholders as optional features.</p>
-					<pre class="prettyprint&quot;">Picasso.with(context)
-    .load(url)
-    .placeholder(R.drawable.user_placeholder)
-    .error(R.drawable.user_placeholder_error)
-    .into(imageView);</pre>
-					<p>A request will be retried three times before the error placeholder is shown.</p>
-					<h4>Resource Loading</h4>
-					<p>Resources, assets, files, content providers are all supported as image sources.</p>
-					<pre class="prettyprint">Picasso.with(context).load(R.drawable.landing_screen).into(imageView1);
-Picasso.with(context).load("file:///android_asset/DvpvklR.png").into(imageView2);
-Picasso.with(context).load(new File(...)).into(imageView3);</pre>
-					<h4>Debug Indicators</h4>
-					<p>For development you can enable the display of a colored ribbon which indicates the image source. Call <code>setIndicatorsEnabled(true)</code> on the Picasso instance.</p>
-					<p class="screenshot"><img alt="Debug ribbon indicators" src="static/debug.png"></p>
-					
                     
                     
-                    
+<!--
                     <h3 id="download">Download</h3>
 					<p><a class="dl version-href" href="https://search.maven.org/remote_content?g=com.squareup.picasso&a=picasso&v=LATEST">&darr; <span class="version-tag">Latest</span> JAR</a></p>
-					<p>The source code to the Picasso, its samples, and this website is <a href="http://github.com/square/picasso">available on GitHub</a>.</p>
-					<h4>Maven</h4>
-					<pre class="prettyprint">&lt;dependency&gt;
-  &lt;groupId&gt;com.squareup.picasso&lt;/groupId&gt;
-  &lt;artifactId&gt;picasso&lt;/artifactId&gt;
-  &lt;version&gt;<span class="version pln"><em>(insert latest version)</em></span>&lt;/version&gt;
-&lt;/dependency&gt;</pre>
-					<h4>Gradle</h4>
-					<pre class="prettyprint">compile 'com.squareup.picasso:picasso:<span class="version pln"><em>(insert latest version)</em></span>'</pre>
-					
+-->
+                    
+                    <h3 id="experience">What I Worked On</h3>
+                    <h4>IT Trainer - University of Dayton UDIT (2011 → 2014)</h4>
+                    <ul>
+                        <li>Created and taught IT Training curriculum for University of Dayton staff and students</li>
+                        <li>Taught free community access IT Training courses on PC use</li>
+                        <li>Developed and recorded catalogue of UD software training videos</li>
+                    </ul>
+                    <h4>Developer - Teradata (2013)</h4>
+                    <ul>
+                        <li>Developed features for Teradata intranet web pages.</li>
+                        <li>Expanded and enhanced single sign on solution for internal web apps</li>
+                        <li>Optimized and migrated PLSQL batch jobs off legacy systems</li>
+                    </ul>
+                    <pre class="prettyprint">["JavaScript", "JSP/ASP", "SQL/PLSQL", "Java"]</pre>
+                    <h4>IT Intern - United Technologies Aerospace (2012)</h4>
+                    <ul>
+                        <li>Migrated over a hundred workstations from Windows XP to Windows 7</li>
+                        <li>Created repeatable procedures for upgrade process and helped automate imaging process</li>
+                    </ul>
+				
                     
                    
                     
-                    <h3 id="contributing">Contributing</h3>
-					<p>If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.</p>
-					<p>When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible. Please also make sure your code compiles by running <code>mvn clean verify</code>.</p>
-					<p>Before your code can be accepted into the project you must also sign the <a href="http://squ.re/sign-the-cla">Individual Contributor License Agreement (CLA)</a>.</p>
+                    <h3 id="contributing">Education</h3>
+                    <div class="lesspadding">
+                        <div class="twocolumncontainer">
+                        <div class="leftsideicon">
+                            <img class="schoolicon" src="static/image-ud.png">
+                        </div>
+                        <div class="rightsidedescription">
+                            <div class="iconsectiontitle schooltitlepadding">University of Dayton</div>
+                            <div class="iconsectiondescription">
+                                <p>Bachelor's of Science in <strong>Computer Information Systems</strong></p>
+                                <p>Minor in <strong>Cyber Security</strong></p>
+                                <p>Served as Vice President and President of the UD <strong>Association of Computing Machinery</strong> in 2013 and 2014.</p>
+                            </div> 
+                        </div>
+                        </div>
+                    </div>
+					
                     
                     
 					<h3 id="stuff_i_like">Stuff I Like</h3>
-					<p>A list of some stuff that I like</p>
+					<p>A list of some stuff that I like:</p>
 					<ul>
-						<li>Handling <code>ImageView</code> recycling and download cancelation in an adapter.</li>
-						<li>Complex image transformations with minimal memory use.</li>
-						<li>Automatic memory and disk caching.</li>
+						<li>I like Star Wars (segway →) check out my Star Wars gifs blog, <a href="http://www.starwarsgifs.com">starwarsgifs.com</a></li>
+                        <li>If you're into podcasts, check out my list of the <a href="podcasts.html">podcasts I'm listening to right now</a></li>
+                        <li>A lot of other stuff, like TV, Movies, Science, Pop Culture &amp; Comedy, and more.</li>
 					</ul><!--
             <h3 id="license">License</h3>
             <pre>Copyright 2017 A.J. Kueterman</pre>
@@ -177,7 +165,7 @@ Picasso.with(context).load(new File(...)).into(imageView3);</pre>
 								<a href="#features">What I'm Working On</a>
 							</li>
 							<li>
-								<a href="#download">Where I've Worked</a>
+								<a href="#experience">What I Worked On</a>
 							</li>
 							<li>
 								<a href="#contributing">Education</a>
@@ -190,6 +178,9 @@ Picasso.with(context).load(new File(...)).into(imageView3);</pre>
 							<li>
 								<a href="http://starwarsgifs.com">Star Wars gifs</a>
 							</li>
+                            <li>
+                                <a href="podcasts.html">Podcast list</a>
+                            </li>
 							<li>
 								<a href="attribution.html">Attribution</a>
 							</li>

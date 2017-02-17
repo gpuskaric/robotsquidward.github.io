@@ -217,32 +217,38 @@ code {
 img.appicon{
     border-radius: 30%;
 }
+img.schoolicon{
+    top: 0;
+}
 
-#appcontainer {
+.twocolumncontainer {
     float:left;
     width:100%;
     padding-bottom: 40px;
 }
-#appicon {
+.leftsideicon {
     float:left;
     width:20%;
     padding-top: 15px;
     display: inline-block;
     margin: 20px;
 }
-#appdescription {
+.rightsidedescription {
     padding-top: 30px;
     float:left;
     width:70%;
     display: inline-block;
 }
-#apptitle {
+.schooltitlepadding {
+    padding-top: 20px;
+}
+.iconsectiontitle {
     font-weight: 300;
   font-style: italic;
   font-size: 20px;
     padding-bottom: 10px;
 }
-#appextradetails {
+.iconsectiondescription {
     font-weight: 300;
     color: #888;
 }
@@ -252,4 +258,7 @@ img.appicon{
 #applestorebadge {
     margin-top: 11px;
     float: left;
+}
+.lesspadding {
+    margin-top: -30px;
 }
