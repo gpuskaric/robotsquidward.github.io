@@ -1,2 +1,2 @@
 # robotsquidward.github.io
-My GitHub Pages Blog
+This is the repo for my website ajkueterman.com
