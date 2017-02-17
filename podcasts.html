@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A.J. Kueterman</title>
+      <link rel="icon" 
+      type="image/png" 
+      href="static/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A powerful image downloading and caching library for Android">
+    <link href="static/bootstrap-combined.min.css" rel="stylesheet">
+    <link href="static/app.css" rel="stylesheet">
+    <link href="static/app-theme.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300italic,100,100italic,300" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]><script src="static/html5shiv.min.js"></script><![endif]-->
+  </head>
+  <body data-target=".content-nav">
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="span5">
+              <h1><a href="index.html" class="home">A.J. Kueterman</a></h1>
+          </div>
+          <div class="span7">
+            <menu>
+              <ul>
+                  <li><a href="https://twitter.com/ajkueterman" data-title="Go To Twitter" class="menu twitter"><img src="static/icon-twitter.png" alt="Twitter"/></a></li>
+                <li><a href="https://github.com/robotsquidward" data-title="View GitHub Project" class="menu github"><img src="static/icon-github.png" alt="GitHub"/></a></li>
+                  <li><a class="menu linkedin" data-title="View Linkedin" href="https://www.linkedin.com/in/a-j-kueterman-747a5548/"><img alt="Linkedin" src="static/icon-linkedin.png"></a></li>
+              </ul>
+            </menu>
+          </div>
+      </div>
+    </header>
+<!--
+    <section id="subtitle">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <h2>My personal blog</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+-->
+    <section id="body">
+      <div class="container">
+        <div class="row">
+          <div class="span9">
+            <h3 id="introduction">Podcasts I Like</h3>
+              <p>In the last few months I've seen my iTunes Podcast app explode with new shows that I love.  But it's not always easy to find new shows.  Here's my cultivated list of what I'm listening to in case you'd like to hear some recommendations.</p>
+              <ul>
+                  <li>NPR Politics Podcast</li>
+                  <li>Slate Political Gabfest</li>
+                  <li>Vox's The Weeds</li>
+                  <li>Pod Save America</li>
+                  <li>Politico Nerd Cast</li>
+                  <li>NYT The Run Up</li>
+                  <li>Now Playing Podcast</li>
+                  <li>Books &amp; Nachos</li>
+                  <li>Hardcore History</li>
+                  <li>Revisionist History</li>
+                  <li>WTF with Marc Maron</li>
+                  <li>Hardwell On Air</li>
+                  <li>Clublife by Tiesto</li>
+              </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12 logo">
+              <code>Copyright 2017 A.J. Kueterman</code>
+<!--            <a href="https://squareup.com"><img src="static/logo-square.png" alt="Square, Inc."/></a>-->
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="static/bootstrap.min.js"></script>
+    <script src="static/jquery.smooth-scroll.min.js"></script>
+    <script src="static/jquery-maven-artifact.min.js"></script>
+    <script src="static/prettify.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        // Syntax highlight code blocks.
+        prettyPrint();
+
+        // Spy on scroll position for real-time updating of current section.
+        $('body').scrollspy();
+
+        // Use smooth-scroll for internal links.
+        $('a').smoothScroll();
+
+        // Enable tooltips on the header nav image items.
+        $('.menu').tooltip({
+          placement: 'bottom',
+          trigger: 'hover',
+          container: 'body',
+          delay: {
+            show: 500,
+            hide: 0
+          }
+        });
+
+        // Look up the latest version of the library.
+        $.fn.artifactVersion('com.squareup.picasso', 'picasso', function(version, url) {
+          $('.version').text(version);
+          $('.version-tag').text('v' + version);
+          $('.version-href').attr('href', url);
+        });
+      });
+    </script>
+  </body>
+</html>
+
