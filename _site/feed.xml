@@ -5,9 +5,58 @@
     <description>My landing page and blog.</description>
     <link>http://ajkueterman.com//</link>
     <atom:link href="http://ajkueterman.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Apr 2017 22:50:53 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2017 22:50:53 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2017 23:25:24 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 23:25:24 -0400</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Pixel Profile</title>
+        <description>&lt;p&gt;I went through a pixel art phase.  Let me know if you like this stuff and if you’d like me to mock something up for your project.&lt;/p&gt;
+
+&lt;p&gt;Created using &lt;a href=&quot;http://www.piskelapp.com/&quot;&gt;piskel&lt;/a&gt;.  Check out their open source &lt;a href=&quot;https://github.com/juliandescottes/piskel&quot;&gt;github project&lt;/a&gt;.  Contribute!&lt;/p&gt;
+
+&lt;h3 id=&quot;twin-peaks-trees&quot;&gt;Twin Peaks Trees&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/tree_piskel.png&quot; alt=&quot;Trees&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;bob&quot;&gt;Bob&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/bob_pixel.png&quot; alt=&quot;Bob&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;laptop&quot;&gt;Laptop&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/developer_laptop_icon.png&quot; alt=&quot;Laptop&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;truth&quot;&gt;Truth&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/truth_piskel.png&quot; alt=&quot;Truth&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;mountains&quot;&gt;Mountains&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/mountains_pixel.png&quot; alt=&quot;Mountains&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;laptop-background&quot;&gt;Laptop Background&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/post_img/laptop.png&quot; alt=&quot;Laptop Background&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 10:04:23 -0500</pubDate>
+        <link>http://ajkueterman.com//2016/pixel-profile/</link>
+        <guid isPermaLink="true">http://ajkueterman.com//2016/pixel-profile/</guid>
+        
+        <category>pixel</category>
+        
+        <category>art</category>
+        
+        
+        <category>art</category>
+        
+      </item>
     
       <item>
         <title>First Post</title>
