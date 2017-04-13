@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.J. Kueterman</title>
+    <description>My landing page and blog.</description>
+    <link>http://ajkueterman.com//</link>
+    <atom:link href="http://ajkueterman.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 12 Apr 2017 22:02:01 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 22:02:01 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;I have made a lot of first posts and &lt;code class=&quot;highlighter-rouge&quot;&gt;Hello World!&lt;/code&gt;’s in my life.  I’m not going to spend a lot more time on this one.&lt;/p&gt;
+
+&lt;p&gt;Check back more for more content hopefully very soon!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 10:04:23 -0500</pubDate>
+        <link>http://ajkueterman.com//2016/first-post/</link>
+        <guid isPermaLink="true">http://ajkueterman.com//2016/first-post/</guid>
+        
+        <category>first post</category>
+        
+        
+        <category>first post</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+# Site settings
+title: A.J. Kueterman
+description: 'My landing page and blog.'
+url: 'http://ajkueterman.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'A.J. Kueterman'
+  email: ajkueterman@gmail.com
+  twitter_username: ajkueterman
+  facebook_username: ajkueterman
+  github_username: robotsquidward
+  linkedin_username: a-j-kueterman-747a5548
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
