@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://ajkueterman.com/2017/new-this-week/</loc>
+      
+        <lastmod>2017-04-24T04:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://ajkueterman.com/2017/pixel-profile/</loc>
       
         <lastmod>2017-04-12T11:04:23-04:00</lastmod>
@@ -36,7 +51,7 @@
     <url>
       <loc>http://ajkueterman.com/categories/</loc>
       
-        <lastmod>2017-04-12T23:37:07-04:00</lastmod>
+        <lastmod>2017-04-25T19:49:30-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +66,7 @@
     <url>
       <loc>http://ajkueterman.com/feed.xml</loc>
       
-        <lastmod>2017-04-12T23:37:07-04:00</lastmod>
+        <lastmod>2017-04-25T19:49:30-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +81,7 @@
     <url>
       <loc>http://ajkueterman.com/</loc>
       
-        <lastmod>2017-04-12T23:37:07-04:00</lastmod>
+        <lastmod>2017-04-25T19:49:30-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,7 +96,7 @@
     <url>
       <loc>http://ajkueterman.com/js/main.js</loc>
       
-        <lastmod>2017-04-12T23:37:07-04:00</lastmod>
+        <lastmod>2017-04-25T19:49:30-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +113,7 @@
     <url>
       <loc>http://ajkueterman.com/tags/</loc>
       
-        <lastmod>2017-04-12T23:37:07-04:00</lastmod>
+        <lastmod>2017-04-25T19:49:30-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
