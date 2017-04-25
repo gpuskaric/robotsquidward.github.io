@@ -5,8 +5,6 @@ categories: [art, music, reviews, new]
 tags: [art, music, review, the shins, vinyl, illustration, tv, hbo]
 ---
 
-# New Stuff this Week
-
 A round up of some new stuff to check out this week.
 
 ## The Shins new album *Heartworms*
