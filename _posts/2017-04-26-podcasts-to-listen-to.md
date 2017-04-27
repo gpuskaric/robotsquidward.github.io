@@ -34,4 +34,4 @@ I listen to a lot of podcasts.  Here's a list of some you should listen to.
 
 * Serial
 * S-Town
-* Revisionist Theory
+* Revisionist History
