@@ -5,9 +5,71 @@
     <description>My landing page and blog.</description>
     <link>http://ajkueterman.com//</link>
     <atom:link href="http://ajkueterman.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 25 Apr 2017 22:26:59 -0400</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 22:26:59 -0400</lastBuildDate>
+    <pubDate>Mon, 01 May 2017 12:25:02 -0400</pubDate>
+    <lastBuildDate>Mon, 01 May 2017 12:25:02 -0400</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Podcasts List</title>
+        <description>&lt;p&gt;I listen to a lot of podcasts.  Here’s a list of some you should listen to.&lt;/p&gt;
+
+&lt;h2 id=&quot;news--politics&quot;&gt;News &amp;amp; Politics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Up First - NPR Morning News Podcast&lt;/li&gt;
+  &lt;li&gt;NPR Politics Podcast&lt;/li&gt;
+  &lt;li&gt;Slate Political Gabfest&lt;/li&gt;
+  &lt;li&gt;Pod Save America&lt;/li&gt;
+  &lt;li&gt;Vox’s The Weeds&lt;/li&gt;
+  &lt;li&gt;Politco’s Nerdcast&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interviews&quot;&gt;Interviews&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WTF&lt;/li&gt;
+  &lt;li&gt;The Nerdist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;moviestvbooks&quot;&gt;Movies/TV/Books&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now Playing&lt;/li&gt;
+  &lt;li&gt;Books &amp;amp; Nachos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sports&quot;&gt;Sports&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PTI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-stuff&quot;&gt;Other Stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Serial&lt;/li&gt;
+  &lt;li&gt;S-Town&lt;/li&gt;
+  &lt;li&gt;Revisionist History&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 04:00:00 -0400</pubDate>
+        <link>http://ajkueterman.com//2017/podcasts-to-listen-to/</link>
+        <guid isPermaLink="true">http://ajkueterman.com//2017/podcasts-to-listen-to/</guid>
+        
+        <category>news</category>
+        
+        <category>podcast</category>
+        
+        <category>music</category>
+        
+        
+        <category>news</category>
+        
+        <category>podcast</category>
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>New This Week - April 24, 2017</title>
