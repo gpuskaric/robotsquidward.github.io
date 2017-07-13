@@ -1,39 +1,27 @@
-# Site settings
-title: A.J. Kueterman
-description: 'My landing page and blog.'
-url: 'http://ajkueterman.com'
-baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            A.J.
+tagline:          'A developer blog'
+description:      'A developer blog for me and my thoughts'
+url:              http://ajkueterman.com
+baseurl:          /
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 author:
-  name: 'A.J. Kueterman'
-  email: ajkueterman@gmail.com
-  twitter_username: ajkueterman
-  facebook_username: ajkueterman
-  github_username: robotsquidward
-  linkedin_username: ajkueterman
+  name:           'A.J. Kueterman'
+  url:            https://twitter.com/ajkueterman
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# Custom vars
+version:          2.1.0
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+github:
+  repo:           https://github.com/robotsquidward
