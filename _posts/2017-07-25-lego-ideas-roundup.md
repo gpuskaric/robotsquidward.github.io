@@ -68,7 +68,7 @@ One more, hard to stop staring at that shine.
 
 The set is lighthearted and intricate, and would be an amazing minifig-scaled build for those Modular fans.  If I had any critique it would be the size.  I would hope for a slightly bumped-up scale when Lego refines.  I have a lot of love and support for this set.  Check it out.
 
-# [Great White Shark](https://ideas.lego.com/projects/6c529a2d-f745-44c2-8a4d-88aaa2322c90)
+## [Great White Shark](https://ideas.lego.com/projects/6c529a2d-f745-44c2-8a4d-88aaa2322c90)
 
 The ocean's most feared predator, now floating an inch above your coffee table.
 
