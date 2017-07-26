@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hey!  My name is A.J.  I'm a mobile developer.  This is my blog.
+Hey!  My name is A.J.  I'm a mobile developer ([cv](https://github.com/robotsquidward/cv)).  This is my blog.
 
 Not a lot to tell you about the place for now, but content will be soon to come!
 
