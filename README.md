@@ -2,4 +2,4 @@
 
 My github pages blog repo.
 
-![AJ peace sprite](images/sprite_ajk_PEACE.png)
+![AJ peace sprite](images/ajk-coffee-sprite.gif)
