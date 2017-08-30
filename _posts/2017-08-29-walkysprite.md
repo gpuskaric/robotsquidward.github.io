@@ -8,7 +8,7 @@ comments: false
 share: false
 ---
 
-Me, as a sprite, walking.  Try the arrow keys! 😊
+Inspired by the fun I've been having playing Earthbound in the last few weeks, I decided to immortalize my likeness in these little pixels.  So here's me, as a sprite, walking.  Try the arrow keys! 😊
 
 <html lang="en">
 <head>
