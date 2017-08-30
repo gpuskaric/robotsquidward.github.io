@@ -3,7 +3,7 @@ layout: post
 title: Walky Sprite
 description: "Me, as a sprite, walking."
 date: 2017-08-29
-tags: [links]
+tags: [design, animation, gaming]
 comments: false
 share: false
 ---
