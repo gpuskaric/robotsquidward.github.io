@@ -1,4 +1,12 @@
-# HN Digest - September 2017
+---
+layout: post
+title: HN Digest - September 2017
+description: "The Hacker News stories that caught my eye in September"
+date: 2017-09-23
+tags: [links, hacker news, news, macOS]
+comments: false
+share: false
+---
 
 These are the [Hacker News](https://news.ycombinator.com/news) stories that caught my eye in September.
 
