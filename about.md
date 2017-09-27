@@ -5,7 +5,7 @@ title: About
 
 ![aj coffee gif](images/ajk-coffee-sprite.gif)
 
-Hey!  My name is A.J.  I'm a mobile developer ([cv](https://github.com/robotsquidward/cv)) and self taught designer.  This is my blog.
+Hey!  My name is A.J.  I'm a mobile developer ([cv](/resume/)) and self taught designer.  This is my blog.
 
 Not a lot to tell you about the place for now, but content will be soon to come!
 
