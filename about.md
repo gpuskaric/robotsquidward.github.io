@@ -7,8 +7,8 @@ title: About
 
 Hey!  My name is A.J.  I'm a mobile developer ([cv](/cv/)) and self taught designer.  This is my blog.
 
-Not a lot to tell you about the place for now, but content will be soon to come!
+The site is written in markdown using [Atom](https://atom.io/), built with [Jekyll](https://jekyllrb.com/), and hosted with ❤️ on [GitHub](https://pages.github.com/).
 
-In the meantime, my gif blog ...
+I also occasionally make Star Wars gifs 🤓
 
 ### [StarWarsGifs.com](http://starwarsgifs.com/)
