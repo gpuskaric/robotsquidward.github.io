@@ -60,7 +60,7 @@ Graduated with a Bachelor's of Science in Computer Information Systems and a Min
 Served as Vice President and President of the University of Dayton chapter of the Association of Computing Machinery. *2012→2014*
 
 ## Contact Me & References
-Please do not hesitate to reach out to me directly via my email, [ajkueterman.com](http://ajkueterman.com), or by phone/voicemail.
+Please do not hesitate to reach out to me directly via my [email](mailto:ajkueterman@gmail.com), here on [ajkueterman.com](http://ajkueterman.com) (my networks below), or by phone/voicemail.
 
 References will be provided upon request.
 
