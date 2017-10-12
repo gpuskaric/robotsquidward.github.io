@@ -4,6 +4,7 @@
 
 # Basic
 name:               "AJ Kueterman"
+description:        "A developer's blog for discussing tech, programming, gadgets, science, and pop culture."
 
 author:
   facebook:         ajkueterman
@@ -32,7 +33,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "ajkueterman"
 
 # URL
 url:                "http://ajkueterman.com" # the base hostname & protocol for your site
@@ -41,7 +42,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           America/New_York
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
