@@ -1,4 +1,12 @@
-# Bob's Burgers and 8 Other Shows That Were Still Great 8 Seasons In
+---
+layout: post
+title: Bob's Burgers Is Still Great 
+description: "and 7 Other Shows That Were Still Great after 7 Seasons"
+date: 2017-10-16
+tags: [images, shows, bob's burgers, seinfeld, curb your enthusiasm, cheers, frasier, it's always sunny in philadelphia, the simpsons, south park, MASH, friends, snl, saturday night live]
+comments: false
+share: false
+---
 
 Most television shows, if they survive the first couple of seasons, have somewhere between four and seven solid seasons in them.  
 
