@@ -24,7 +24,7 @@ Like my title suggests, one of those shows is Bob's Burgers, which recently star
 
 ## Seinfeld
 
-![seinfeld](https://media.giphy.com/media/2S4HUSNLnDskw/giphy.gif)
+![seinfeld](https://ewedit.files.wordpress.com/2015/06/seinfeld-3.jpg?w=2000)
 
 Larry David walked away from Seinfeld after it's seventh season, leaving the show rudderless in some sense.  But the show floated forward on with some powerful forward momentum, and some of the shows best episodes were still to come.  Without Seinfeld's later season we would never have Festivus!
 
@@ -38,7 +38,7 @@ Larry David's most notable and widely loved post-Seinfeld endeavor, Curb Your En
 
 ## The Simpsons
 
-![the simpsons](https://vignette4.wikia.nocookie.net/simpsons/images/8/8c/Couch_Gag_No.343.png/revision/latest?cb=20150218121119)
+![the simpsons](http://www.top-ten.tv/wp-content/uploads/2013/03/The_Simpson__s_Family_by_Simpsonix.png)
 
 The Simpsons lasted forever.  The Simpsons has done everything.  Does anyone still watch the Simpsons?  They did in the 90's - and The Simpsons was still killing it then.  The Simpsons is one of the best shows ever made, even if only about half of them are worth it at this point (28 seasons in), they would have more than earned their place on this list.
 
