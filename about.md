@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![aj coffee gif](images/ajk-coffee-sprite.gif)
+![aj coffee gif](../images/ajk-coffee-sprite.gif)
 
 Hey!  My name is A.J.  I'm a mobile developer ([cv](/cv/)) and self taught designer.  This is my blog.
 
