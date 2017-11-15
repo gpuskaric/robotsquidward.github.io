@@ -13,11 +13,11 @@ $ rake geminstall
 then
 
 ```bash
-jekyll serve
+$ jekyll serve
 ```
 
 or
 
 ```bash
-rake preview
+$ rake preview
 ```
