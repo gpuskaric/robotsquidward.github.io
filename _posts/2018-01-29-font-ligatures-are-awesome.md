@@ -1,3 +1,13 @@
+---
+layout: post
+title: Font Ligatures Are Awesome
+description: "Using fonts that have ligatures helps my code look more readable and - more importantly - cool 😎"
+date: 2018-01-29
+tags: [font, design, code, style]
+comments: false
+share: false
+---
+
 If you're like me, a Hipster Coder™, you probably love perfectly tweaking your color themes and fonts on a regular basis to try to find that perfect combination.
 
 Recently, I've been learning about a new way to up your coding font game - font **ligatures**.
