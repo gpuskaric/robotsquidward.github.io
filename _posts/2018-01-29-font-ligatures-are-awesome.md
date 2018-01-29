@@ -50,7 +50,7 @@ In Atom, you can set the font easily in `Settings` → `Editor`
 
 To enable font ligatures for Fira Code, include this snippet in your Atom `styles.less`
 
-```sass
+```less
 atom-text-editor {
   text-rendering: optimizeLegibility;
 
@@ -63,7 +63,7 @@ atom-text-editor {
 
 In addition, if you download and install [Script12 BT](https://www.myfontsfree.com/134618/script12pitchbt.htm), an italic cursive-styled mono font, you can add this snippet to make key words use that font for an Operator feel.
 
-```sass
+```less
 atom-text-editor.editor {
   /*
     Transform selected text into alternative font for elegant touch:
