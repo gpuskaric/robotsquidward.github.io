@@ -23,19 +23,19 @@ And if there's time, some [stuff I like](#stuff-i-like).
 ## Work History
 
 ### Senior Application Developer - Fifth Third Bank
-*(June 2016 →	 Present)*
+*(June 2016 →	Present)*
 
-* Develop application features for major business initiatives in both iOS and Android
+* Develop key application features for major business initiatives in both iOS and Android including core bank Payments and Transfers functionality
 * Support major Fifth Third Bank consumer applications including Fifth Third Mobile Banking ([iOS](https://itunes.apple.com/us/app/fifth-third-mobile-banking/id468738585?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.clairmail.fth)), [53.com](https://www.53.com/), and related services
 * Experience as project Technical Lead on major Consumer Bank business initiatives impacting applications across the business
-* Continually improving the applications through testing
+* Continually improving the applications through testing and managing seamless releases across apps
 
 ### Developer, IT Leadership Program - Fifth Third Bank
 *(June 2014 → June 2016)*
 
-* Worked as a Developer, Business Analyst, and Project Manager across several IT Lines of Business on key strategic initiatives
+* Worked for the Fifth Third Bank Mobile Application team, building major application features including Paperless Statements, New User Help, and more for both the iOS and Android applications in `Objective-C` and `Java`
 * Built new features, including a OTP Verification Solution for Commercial Call Centers, for the Fifth Third Direct Commercial Portal in `Java` using `Wicket`, `Angular-JS` and `Spring`
-* Worked for the Fifth Third Bank Mobile application team, building major application features including Paperless Statements, New User Help, and more for both the iOS and Android applications
+* Worked as a Developer, Business Analyst, and Project Manager across several IT Lines of Business on key strategic initiatives
 
 ### Developer - Teradata
 *(May 2013 → August 2013)*
