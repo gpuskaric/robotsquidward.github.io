@@ -34,7 +34,7 @@ And if there's time, some [stuff I like](#stuff-i-like).
 *(June 2014 → June 2016)*
 
 * Worked for the Fifth Third Bank Mobile Application team, building major application features including Paperless Statements, New User Help, and more for both the iOS and Android applications in `Objective-C` and `Java`
-* Built new features, including a OTP Verification Solution for Commercial Call Centers, for the Fifth Third Direct Commercial Portal in `Java` using `Wicket`, `Angular-JS` and `Spring`
+* Built new features, including an OTP Verification Solution for Commercial Call Centers, for the Fifth Third Direct Commercial Portal in `Java` using `Wicket`, `Angular-JS` and `Spring`
 * Worked as a Developer, Business Analyst, and Project Manager across several IT Lines of Business on key strategic initiatives
 
 ### Developer - Teradata
