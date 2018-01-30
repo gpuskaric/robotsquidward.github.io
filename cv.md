@@ -4,7 +4,7 @@ title: Resume
 ---
 
 # A.J. Kueterman
-Mobile developer working to build stable and tested enterprise Android and iOS applications.  Highly focused, detail oriented coder with a proven ability to deliver results for clients.
+Mobile developer working to build beautiful, stable, and tested enterprise Android and iOS applications.  Highly focused, detail oriented coder with a proven ability to deliver results for clients and product owners.
 
 **A.J. Kueterman | 
 2200 Madison Rd. Apt. 5 | 
@@ -69,6 +69,8 @@ References will be provided upon request.
 * [Atom](https://atom.io/) for text editing and JavaScript
 * Markdown and [MacDown](https://macdown.uranusjr.com/) for note-taking and wiki-making (also this CV)
 * [Github Pages](https://pages.github.com/) for hosting [my site](http://ajkueterman.com), and Tumblr for hosting [my gifs](http://starwarsgifs.com)!
+* Designing icons, UX layouts, and other vector illustrations using [Affinity Designer](https://affinity.serif.com/en-us/designer/)
+* Building pixel art with [Piskel](https://github.com/piskelapp/piskel)
 * Movies, TV, music, and obsessively listening to podcasts for my news and entertainment
 
 If you need this document in a different format than you are viewing it, please reach out and I'll get you the markdown/PDF/HTML that you need.
