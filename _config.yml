@@ -66,6 +66,8 @@ nav:
     url:            "https://github.com/robotsquidward"
   - name:           "Feed"
     url:            "/feed"
+  - name:           "Products"
+    url:            "https://paom.com/designer/ajkueterman"
 
 # Sass
 sass:
