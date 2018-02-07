@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painfully Simple Jekyll Sites</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+
+  <!-- Font -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for AJ Kueterman" href="/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Painfully Simple Jekyll Sites | AJ Kueterman</title>
+<meta name="generator" content="Jekyll v3.7.2" />
+<meta property="og:title" content="Painfully Simple Jekyll Sites" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A painfully simple guide for how to build a blog or website in 10 minutes using Jekyll and GitHub Pages." />
+<meta property="og:description" content="A painfully simple guide for how to build a blog or website in 10 minutes using Jekyll and GitHub Pages." />
+<link rel="canonical" href="http://localhost:4000/2018-02-06/painfully-simple-jekyll/" />
+<meta property="og:url" content="http://localhost:4000/2018-02-06/painfully-simple-jekyll/" />
+<meta property="og:site_name" content="AJ Kueterman" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-02-06T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"A painfully simple guide for how to build a blog or website in 10 minutes using Jekyll and GitHub Pages.","@type":"BlogPosting","url":"http://localhost:4000/2018-02-06/painfully-simple-jekyll/","headline":"Painfully Simple Jekyll Sites","dateModified":"2018-02-06T00:00:00-05:00","datePublished":"2018-02-06T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018-02-06/painfully-simple-jekyll/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+  <!-- Google Analytics -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+  <div class="content-container">
+    <header>
+  <div class="header-small">
+    <a href="http://localhost:4000">AJ Kueterman</a>
+  </div>
+</header>
+<div class="post">
+  <div class="post-title">Painfully Simple Jekyll Sites</div>
+  <span class="post-date">
+    <time>06 Feb 2018</time>
+  </span>
+  <div class="post-tag">
+    <ul>
+      
+      <li>
+        <a href="http://localhost:4000/tags#jekyll">
+          <span>jekyll</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4000/tags#blogging">
+          <span>blogging</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4000/tags#github">
+          <span>github</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4000/tags#pages">
+          <span>pages</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4000/tags#web development">
+          <span>web development</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4000/tags#jekyll-guides">
+          <span>jekyll-guides</span>
+        </a>
+      </li>
+      
+      
+    </ul>
+  </div>
+
+  <p>Everybody wants to have a website.  A lot less people realize how easy it is to get started.  Lucky you, I’m going to show you exactly how you can get started with a live website in less than 10 minutes - for free!</p>
+
+<p>We’re going to build our site using <a href="https://pages.github.com/">GitHub Pages</a>.  GitHub harnesses the power of <a href="https://jekyllrb.com/">Jekyll</a> to turn <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">markdown</a> documents into lovely websites.</p>
+
+<h2 id="create-a-new-repository-on-github">Create a New Repository on <a href="https://github.com/">GitHub</a></h2>
+
+<p>If you don’t have an account <a href="https://github.com/join">sign up for free</a>.</p>
+
+<p>Once you have an account, go back to the <a href="https://github.com/">GitHub landing page</a>, click on the (+) dropdown and select New repository.</p>
+
+<p><img src="/images/jekyll-tutorial-01.png" alt="new repo" /></p>
+
+<p>Add a repository title, optional description, and make sure you check the box next to ‘Initialize this repository with a README’.</p>
+
+<p><img src="/images/jekyll-tutorial-02.png" alt="repo details" /></p>
+
+<h2 id="generate-your-site">Generate Your Site</h2>
+
+<p>After your repository is created, go to the <strong>Settings</strong> tab and scroll down to the <strong>GitHub Pages</strong> section.</p>
+
+<p>Here, you turn on GitHub Pages by selecting the branch you want GitHub to build your site from.  We want to build our site from our repository’s <code class="highlighter-rouge">master</code> branch.</p>
+
+<p><img src="/images/jekyll-tutorial-04.png" alt="settings" /></p>
+
+<p>This will prompt GitHub to start building your site.  At the top of the <strong>GitHub Pages</strong> section you’ll see the url GitHub will publish your site to.</p>
+
+<p><img src="/images/jekyll-tutorial-05.png" alt="published url" /></p>
+
+<p>If you preview the site now, it will just be a prettified-version of your README.  This is the essence of the Jekyll blog.  But we want our site to have a bit more pizzaz, so we’re going to pick a theme.</p>
+
+<h2 id="pick-a-theme">Pick A Theme</h2>
+
+<p>Click on <strong>Choose a theme</strong> button under the <strong>Theme Chooser</strong> section.</p>
+
+<p>Here, we can select any theme for our site.  Most built-in Jekyll themes in GitHub Pages offer us a simple UI boost for our README, so choose whichever one you like the best.  For my basic site I’m picking the <strong>Minimal</strong> theme.</p>
+
+<p><img src="/images/jekyll-tutorial-06.png" alt="theme chooser" /></p>
+
+<p>Now we can check out our site (<em>from that link in the Settings page</em>).  Here’s what mine looks like.</p>
+
+<p><img src="/images/jekyll-tutorial-07.png" alt="generated site" /></p>
+
+<h2 id="update-site-content">Update Site Content</h2>
+
+<p>The <strong>Minimal</strong> theme is just that - minimal.  All you have to do to update your site content is update your <code class="highlighter-rouge">README.md</code> file.</p>
+
+<p>I’m just going to add a couple of my own posts to my ‘blog’.</p>
+
+<p><img src="/images/jekyll-tutorial-08.png" alt="update readme" /></p>
+
+<p>When you’re done updating, click on the <strong>Commit changes</strong> button to save your updates.  Your changes should be updated almost immediately.  Here’s what mine look like.</p>
+
+<p><img src="/images/jekyll-tutorial-09.png" alt="updated site" /></p>
+
+<p>And that’s pretty much it!  You have a live site and blank slate for your updates!</p>
+
+<h2 id="whats-next">What’s Next?</h2>
+
+<p>You just published a site in less than 10 minutes!  But we just scratched the surface of the possibilities of Jekyll and GitHub Pages.  Here’s some resources to get you on to your next site.</p>
+
+<h3 id="jekyll-docs">Jekyll Docs</h3>
+
+<ul>
+  <li><a href="https://jekyllrb.com/docs/quickstart/">Quick-Start</a></li>
+  <li><a href="https://jekyllrb.com/docs/github-pages/">More on GitHub Pages</a></li>
+  <li><a href="https://jekyllrb.com/docs/resources/">Additional Resources</a></li>
+</ul>
+
+<h3 id="themes">Themes</h3>
+
+<p>I like themes from <a href="https://cloudcannon.com/announcements/2016/12/05/free-jekyll-templates/">CloudCannon</a> which are all available on their <a href="https://github.com/CloudCannon">GitHub profile</a>.</p>
+
+<p>If you like my theme, check it out <a href="https://github.com/aweekj/Kiko-plus">here</a>.  <em>Fair warning - this theme is deprecated.</em></p>
+
+
+  <!-- Disqus -->
+  
+
+</div>
+
+
+    <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+    <a href="https://www.facebook.com/ajkueterman"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    
+	
+	
+	
+	
+
+    
+    <a href="https://twitter.com/ajkueterman"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+
+    
+    <a href="https://github.com/robotsquidward"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+	
+	
+	
+	
+
+    
+    <a href="https://www.linkedin.com/in/ajkueterman"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    
+	
+	
+	
+	
+	
+	
+    <a href="https://www.instagram.com/ajkueterman"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+    
+	
+	
+
+    
+
+    
+
+    
+    <a href="mailto:ajkueterman@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+
+  </div>
+  © 2017 A.J. Kueterman. All rights reserved.
+</div>
+
+  </div>
+</body>
+</html>
