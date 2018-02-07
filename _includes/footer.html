@@ -1,15 +1,38 @@
 <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
 <div class="footer">
+  <br/><br/><br/>
   <hr />
+  <br/>
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+  	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+  	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+  	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+  <div id="mc_embed_signup">
+  <form action="https://ajkueterman.us17.list-manage.com/subscribe/post?u=08271c3ec80957a0e5fa69024&amp;id=dc8f0774d5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+  	<label for="mce-EMAIL">Get updates right to your inbox</label>
+  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_08271c3ec80957a0e5fa69024_dc8f0774d5" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+  </form>
+  </div>
+  <!--End mc_embed_signup-->
+
+  <br/><br/><br/>
   <div class="footer-link">
     {% if site.author.facebook %}
     <a href="https://www.facebook.com/{{ site.author.facebook }}"><i class="fa fa-facebook" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.youtubeUser %}
     <a href="https://www.youtube.com/user/{{ site.author.youtubeUser }}"><i class="fa fa-youtube" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.youtubeChannel %}
     <a href="https://www.youtube.com/channel/{{ site.author.youtubeChannel }}"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
     {% endif %}
@@ -21,11 +44,11 @@
     {% if site.author.github %}
     <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.stackoverflow %}
     <a href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.quora %}
     <a href="https://www.quora.com/profile/{{ site.author.quora }}"><i class="fa fa-quora" aria-hidden="true"></i></a>
     {% endif %}
@@ -33,19 +56,19 @@
     {% if site.author.linkedin %}
     <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.pinterest %}
     <a href="https://www.pinterest.com/{{ site.author.pinterest }}"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.googlePlus %}
     <a href="https://plus.google.com/{{ site.author.googlePlus }}"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.instagram %}
     <a href="https://www.instagram.com/{{ site.author.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i></a>
     {% endif %}
-	
+
 	{% if site.author.reddit %}
     <a href="https://www.reddit.com/user/{{ site.author.reddit }}"><i class="fa fa-reddit" aria-hidden="true"></i></a>
     {% endif %}
@@ -64,4 +87,6 @@
 
   </div>
   © {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
+  <br/>
+  <br/>
 </div>

@@ -15,9 +15,71 @@
 
 &lt;p&gt;If you don’t have an account &lt;a href=&quot;https://github.com/join&quot;&gt;sign up for free&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you do, click on the (+) dropdown and select New repository.&lt;/p&gt;
+&lt;p&gt;Once you have an account, go back to the &lt;a href=&quot;https://github.com/&quot;&gt;GitHub landing page&lt;/a&gt;, click on the (+) dropdown and select New repository.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;new repo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-01.png&quot; alt=&quot;new repo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add a repository title, optional description, and make sure you check the box next to ‘Initialize this repository with a README’.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-02.png&quot; alt=&quot;repo details&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;generate-your-site&quot;&gt;Generate Your Site&lt;/h2&gt;
+
+&lt;p&gt;After your repository is created, go to the &lt;strong&gt;Settings&lt;/strong&gt; tab and scroll down to the &lt;strong&gt;GitHub Pages&lt;/strong&gt; section.&lt;/p&gt;
+
+&lt;p&gt;Here, you turn on GitHub Pages by selecting the branch you want GitHub to build your site from.  We want to build our site from our repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-04.png&quot; alt=&quot;settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This will prompt GitHub to start building your site.  At the top of the &lt;strong&gt;GitHub Pages&lt;/strong&gt; section you’ll see the url GitHub will publish your site to.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-05.png&quot; alt=&quot;published url&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you preview the site now, it will just be a prettified-version of your README.  This is the essence of the Jekyll blog.  But we want our site to have a bit more pizzaz, so we’re going to pick a theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;pick-a-theme&quot;&gt;Pick A Theme&lt;/h2&gt;
+
+&lt;p&gt;Click on &lt;strong&gt;Choose a theme&lt;/strong&gt; button under the &lt;strong&gt;Theme Chooser&lt;/strong&gt; section.&lt;/p&gt;
+
+&lt;p&gt;Here, we can select any theme for our site.  Most built-in Jekyll themes in GitHub Pages offer us a simple UI boost for our README, so choose whichever one you like the best.  For my basic site I’m picking the &lt;strong&gt;Minimal&lt;/strong&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-06.png&quot; alt=&quot;theme chooser&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now we can check out our site (&lt;em&gt;from that link in the Settings page&lt;/em&gt;).  Here’s what mine looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-07.png&quot; alt=&quot;generated site&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;update-site-content&quot;&gt;Update Site Content&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;Minimal&lt;/strong&gt; theme is just that - minimal.  All you have to do to update your site content is update your &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;I’m just going to add a couple of my own posts to my ‘blog’.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-08.png&quot; alt=&quot;update readme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you’re done updating, click on the &lt;strong&gt;Commit changes&lt;/strong&gt; button to save your updates.  Your changes should be updated almost immediately.  Here’s what mine look like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jekyll-tutorial-09.png&quot; alt=&quot;updated site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s pretty much it!  You have a live site and blank slate for your updates!&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+
+&lt;p&gt;You just published a site in less than 10 minutes!  But we just scratched the surface of the possibilities of Jekyll and GitHub Pages.  Here’s some resources to get you on to your next site.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-docs&quot;&gt;Jekyll Docs&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/quickstart/&quot;&gt;Quick-Start&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/github-pages/&quot;&gt;More on GitHub Pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/resources/&quot;&gt;Additional Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;themes&quot;&gt;Themes&lt;/h3&gt;
+
+&lt;p&gt;I like themes from &lt;a href=&quot;https://cloudcannon.com/announcements/2016/12/05/free-jekyll-templates/&quot;&gt;CloudCannon&lt;/a&gt; which are all available on their &lt;a href=&quot;https://github.com/CloudCannon&quot;&gt;GitHub profile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you like my theme, check it out &lt;a href=&quot;https://github.com/aweekj/Kiko-plus&quot;&gt;here&lt;/a&gt;.  &lt;em&gt;Fair warning - this theme is deprecated.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Feb 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018-02-06/painfully-simple-jekyll/</link>
