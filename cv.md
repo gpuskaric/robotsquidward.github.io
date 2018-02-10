@@ -6,11 +6,11 @@ title: Resume
 # A.J. Kueterman
 Mobile developer working to build beautiful, stable, and tested enterprise Android and iOS applications.  Highly focused, detail oriented coder with a proven ability to deliver results for clients and product owners.
 
-**A.J. Kueterman | 
-2200 Madison Rd. Apt. 5 | 
-Cincinnati, OH 45208** 
+**A.J. Kueterman |
+2200 Madison Rd. Apt. 5 |
+Cincinnati, OH 45208**
 
-[ajkueterman@gmail.com](mailto:ajkueterman@gmail.com) | 
+[ajkueterman@gmail.com](mailto:ajkueterman@gmail.com) |
 (937)-430-2785
 
 ## Core Skills
@@ -60,7 +60,7 @@ Graduated with a Bachelor's of Science in Computer Information Systems and a Min
 Served as Vice President and President of the University of Dayton chapter of the Association of Computing Machinery. *2012→2014*
 
 ## Contact Me & References
-Please do not hesitate to reach out to me directly via my [email](mailto:ajkueterman@gmail.com), here on [ajkueterman.com](http://ajkueterman.com) (my networks below), or by phone/voicemail.
+Please do not hesitate to reach out to me directly via my [email](mailto:ajkueterman@gmail.com), here on [ajkueterman.com](https://ajkueterman.com) (my networks below), or by phone/voicemail.
 
 References will be provided upon request.
 
@@ -68,7 +68,7 @@ References will be provided upon request.
 
 * [Atom](https://atom.io/) for text editing and JavaScript
 * Markdown and [MacDown](https://macdown.uranusjr.com/) for note-taking and wiki-making (also this CV)
-* [Github Pages](https://pages.github.com/) for hosting [my site](http://ajkueterman.com), and Tumblr for hosting [my gifs](http://starwarsgifs.com)!
+* [Github Pages](https://pages.github.com/) for hosting [my site](https://ajkueterman.com), and Tumblr for hosting [my gifs](http://starwarsgifs.com)!
 * Designing icons, UX layouts, and other vector illustrations using [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 * Building pixel art with [Piskel](https://github.com/piskelapp/piskel)
 * Movies, TV, music, and obsessively listening to podcasts for my news and entertainment
