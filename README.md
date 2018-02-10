@@ -1,8 +1,8 @@
-# [ajkueterman.com](http://ajkueterman.com)
+# [ajkueterman.com](https://ajkueterman.com)
 
 My github pages blog repo.
 
-![AJ peace sprite](images/ajk-coffee-sprite.gif)
+![AJ peace sprite](images/bearded-coffee-gif.gif)
 
 ## Run Locally
 
