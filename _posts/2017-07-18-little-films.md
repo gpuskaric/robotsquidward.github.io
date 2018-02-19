@@ -31,13 +31,13 @@ I pulled out a few of my favorites that were aired.
 ## Jin C
 
 <div class="videoWrapper">
-<iframe src="https://www.youtube.com/embed/OX5eEv-F6nw" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZvHNY5KVXOU" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Araby P
 
 <div class="videoWrapper">
-<iframe src="https://www.youtube.com/embed/son7gyOfE6A" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7lsOcco7MXs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 I love these videos because they inspire anyone who has a smartphone to go make a film.  The only tool you really need is in your pocket.  Not only that, but each ad shows how you can tell a story in a single shot that may span only a dozen seconds.  Something about breaking it down to that achievable level makes you want to go out and do it yourself.
